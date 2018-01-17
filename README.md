@@ -36,3 +36,5 @@
 
 * sm_ready			-	Command to ready up.
 * sm_forceready		-	Admin command to force ready everyone.
+
+## L4D2 Infected Spawn Fix
