@@ -1,6 +1,6 @@
 # Random-Plugins
 
-## L4D2 SCORE EDITOR
+## L4D2 SCORE EDITOR							-	Manage map scores in L4D2.
 
  Plugin Commands
 
@@ -8,14 +8,14 @@
 * sm_setscore       -   Sets map's versus score. (Cannot exceed 1000)
 * sm_restartscore   -   Restart the trigger for score count. Useful for maps where scores gets stuck. 
 
-## L4D2 CI Counter
+## L4D2 CI Counter								-	Counts common infected spawns.
 
  Plugin Commands
 
 * sm_count       	-   Gets the current count of Common Infected.
 * sm_lastcount      -   Gets the CI count from last round.
 
-## L4D2 BWA Team Switch Panel - Modified!
+## L4D2 BWA Team Switch Panel - Modified!		-	Shows players on each team and spectators.
 
  Plugin Commands
 
@@ -32,9 +32,13 @@
 * sm_swapteams		-	Swap Survivors with Infected.
 * sm_unscramble		-	Unscramble the teams.
 
-## L4D2 ReadyUp - Not Finished!
-
+## L4D2 ReadyUp - Not Finished!					-	ReadyUp system for versus	
+		
 * sm_ready			-	Command to ready up.
 * sm_forceready		-	Admin command to force ready everyone.
 
-## L4D2 Infected Spawn Fix
+## L4D2 Infected Spawn Everywhere
+
+## L4D2 Ledge Release							-	Allow players who are hanging form a ledge to let go.
+
+## L4D2 Saferoom Hunter Glitch					-	Prevents hunters from entering a locked safe room.
