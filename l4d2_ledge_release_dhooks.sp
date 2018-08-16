@@ -7,7 +7,7 @@
 
 #define GAMEDATA			"left4downtown.l4d2"
 #define PLUGIN_VERSION 		"1.0"
-#define CHAT_TAG			"\x04[\x05Ledge Drop\x04] \x01"
+#define CHAT_TAG			"\x04[\x05Ledge Release\x04] \x01"
 
 // Global bool variables
 bool	g_bPlayer[MAXPLAYERS];
